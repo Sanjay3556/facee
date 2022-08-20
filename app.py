@@ -115,7 +115,7 @@ html_temp = """
    <div class="fixed-bottom ">
       <div class="dark bg-dark " style="min-height: 40px;">
          <marquee style="color:#fff; margin-top: 7px;">
-            <h9>Designed & Developed by Kishor Kumar, Student of Poornima Institute of Engineering and Technology</h9>
+            <h9>Designed & Developed by Sanjay Singh, Student of Poornima Colllege  of Engineering</h9>
          </marquee>
       </div>
    </div>
